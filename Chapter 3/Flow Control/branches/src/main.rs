@@ -7,7 +7,7 @@ fn main() {
         println!("Conditon was true!");
     } else {
         println!("Condition was false!");
-    }
+    }ho
 
     if number % 3 == 0 {
         println!("Number divisible by 3");

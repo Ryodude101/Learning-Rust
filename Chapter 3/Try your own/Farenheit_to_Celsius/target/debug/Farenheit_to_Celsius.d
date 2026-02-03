@@ -1,0 +1,1 @@
+/home/radio/Documents/Git\ Repos/Learning\ Rust/Learning-Rust/Chapter\ 3/Try\ your\ own/Farenheit_to_Celsius/target/debug/Farenheit_to_Celsius: /home/radio/Documents/Git\ Repos/Learning\ Rust/Learning-Rust/Chapter\ 3/Try\ your\ own/Farenheit_to_Celsius/src/main.rs

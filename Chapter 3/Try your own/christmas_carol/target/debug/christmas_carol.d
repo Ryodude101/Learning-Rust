@@ -1,0 +1,1 @@
+/home/radio/Documents/Git\ Repos/Learning\ Rust/Learning-Rust/Chapter\ 3/Try\ your\ own/christmas_carol/target/debug/christmas_carol: /home/radio/Documents/Git\ Repos/Learning\ Rust/Learning-Rust/Chapter\ 3/Try\ your\ own/christmas_carol/src/main.rs
