@@ -1,8 +1,8 @@
 /*
     The goal of this program is to output the lyrics to the 12 days of christmas
 
-    NO-RISC
-    2.2.26
+    Ryan Colòn
+    2-2-2026
 */
 
 const NUM_DAYS: usize = 12;

@@ -1,8 +1,8 @@
 /*
     The goal of this program is to display the nth fibonacci number
 
-    NO-RISC
-    2.2.26
+    Ryan Colòn
+    2-2-2026
 */
 
 use std::io;

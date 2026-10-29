@@ -2,8 +2,8 @@
     The goal of this program is to convert a given temperature (in Farenheit)
     to Celsius.
 
-    NO-RISC
-    2.2.26
+    Ryan Colòn
+    2-2_2026
 */
 
 use std::io;
