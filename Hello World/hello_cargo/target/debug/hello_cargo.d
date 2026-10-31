@@ -1,1 +1,0 @@
-/home/radio/Documents/Git\ Repos/Learning\ Rust/Learning-Rust/Hello\ World/hello_cargo/target/debug/hello_cargo: /home/radio/Documents/Git\ Repos/Learning\ Rust/Learning-Rust/Hello\ World/hello_cargo/src/main.rs

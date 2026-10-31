@@ -1,1 +1,0 @@
-C:\Users\Radio\Documents\Coding\ Projects\Rust\ Learning\Learning-Rust\Chapter\ 4\first_word\target\debug\first_word.exe: C:\Users\Radio\Documents\Coding\ Projects\Rust\ Learning\Learning-Rust\Chapter\ 4\first_word\src\main.rs
