@@ -70,3 +70,19 @@ println!("{r1}, {r2}");
 ```
 This will throw a compile time error `cannot borrow s as mutable more than once at a time`. It is also not allowed to have both immutable and mutable references in the same scope `cannot borrow s as mutable because it is already borrowed as immutable`.
 - Small correction: immutable and mutable references can exist in the same scope **only** if the immutable references are no longer used by the time the mutable reference is made. Rust will automatically clean up the immutable references and allow the mutable reference to instantiate.
+
+Rust will is also able to detect and prevent dangling references at compile time. The book references lifetimes at this point but does not explain them, they will be covered in Chapter 10.
+
+## Slices
+You can track a portion of data out of certain data types with the following syntax:
+```Rust
+let s = String::from("hello world");
+
+let hello = &s[0..5];
+let world = &s[6..11];
+//You can drop one of the specifiers if it is an edge
+let slice = &s[..5]; 
+let slice2 = &s[6..];
+let wholeslice = &s[..];
+```
+Internally, the slice structure is just storing a pointer to the starting index and a length value. This is a good way to handle data like this because it also allows the compiler to track the reference.
