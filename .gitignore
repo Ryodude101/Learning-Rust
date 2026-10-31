@@ -1,0 +1,8 @@
+# Cargo build output
+target/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
